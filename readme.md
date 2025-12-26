@@ -15,7 +15,9 @@ The main goal of this project is to understand PEST v4 syntax, structure, and be
 
 Clone the repository and install dependencies:
 git clone 
-git@github.com:MinKhantMaw/pest-test-v4.git
+```bash
+git clone git@github.com:MinKhantMaw/pest-test-v4.git
+```
 
 cd pest-test-v4
 ```bash
