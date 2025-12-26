@@ -17,9 +17,9 @@ Clone the repository and install dependencies:
 git clone 
 ```bash
 git clone git@github.com:MinKhantMaw/pest-test-v4.git
+cd pest-test-v4
 ```
 
-cd pest-test-v4
 ```bash
 composer install
 cp .env.example .env
